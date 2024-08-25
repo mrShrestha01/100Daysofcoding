@@ -94,9 +94,6 @@ a.active,a:hover {
         line-height: 30px;
     }
 
-    nav ul li{
-        display: block;
-    }
 
     nav ul li a{
         font-size: 20px;
@@ -115,5 +112,5 @@ a.active,a:hover {
 section {
     background: url(image9.jpg) no-repeat;
     background-size: cover;
-    height: calc(100vh-80px);
+    height: calc(100vh - 80px);
 }
